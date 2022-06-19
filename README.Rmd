@@ -16,6 +16,20 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
+## Machine Learning with {tidymodels}
+
+3.5 hour workshop at useR! 2022
+
+[Website](https://emilhvitfeldt.github.io/useR2022-tidymodels-workshop/)  
+[Github](https://github.com/EmilHvitfeldt/useR2022-tidymodels-workshop)
+
+## Machine Learning with {tidymodels}
+
+1 day workshop at NHS-R Conference 2021
+
+[Website](https://emilhvitfeldt.github.io/nhs-tidymodels-workshop/)  
+[Github](https://github.com/EmilHvitfeldt/nhs-tidymodels-workshop)
+
 ## Predictive modeling with text using tidy data principles
 
 1 day workshop at R/Pharma
