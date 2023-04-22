@@ -16,6 +16,13 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
+## Tidy text mining and modeling
+
+2 hours tutorial at SoCal RUG Hackathon 2023-04
+
+[Website](https://emilhvitfeldt.github.io/tutorial-ocrug-hackathon-nlp/)  
+[Github](https://github.com/EmilHvitfeldt/tutorial-ocrug-hackathon-nlp)
+
 ## Machine Learning with {tidymodels}
 
 3.5 hour workshop at useR! 2022
